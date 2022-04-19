@@ -1,6 +1,5 @@
 cmake
 opencv-python
-face-recognition
 streamlit-webrtc
 tensorflow
 imutils
